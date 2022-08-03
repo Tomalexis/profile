@@ -57,6 +57,7 @@ a {
 }
 .img-circle {
   border-radius: 50%;
+  border: #F2A7D4 2px solid;
 }
 .list-inline {
   list-style: none;
