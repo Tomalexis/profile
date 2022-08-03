@@ -1,5 +1,6 @@
 body {
   background-image: url("images/pexels-eberhard-grossgasteiger-844297.jpg");
+  background-size: cover;
   color: #575F7D;
   font-family: 'Lora', serif;
   font-size: 17px;
